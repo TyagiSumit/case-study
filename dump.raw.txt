@@ -1,0 +1,1420 @@
+booster[0]:
+0:[Genetic_Pedigree_Coefficient_2<0.0182499997] yes=1,no=2,missing=1
+	1:leaf=-0.42592594
+	2:[Genetic_Pedigree_Coefficient_2<0.632050037] yes=3,no=4,missing=3
+		3:[Level_of_Hemoglobin_2<201.640106] yes=5,no=6,missing=5
+			5:[Level_of_Hemoglobin_2<80.7304535] yes=9,no=10,missing=9
+				9:[Level_of_Hemoglobin_2<78.677002] yes=17,no=18,missing=17
+					17:leaf=-0.455223888
+					18:leaf=-0.142857149
+				10:[Genetic_Pedigree_Coefficient_2<0.030650001] yes=19,no=20,missing=19
+					19:leaf=0.0102040814
+					20:leaf=0.407142848
+			6:[Level_of_Hemoglobin_2<210.105042] yes=11,no=12,missing=11
+				11:[Level_of_Hemoglobin_2<204.204193] yes=21,no=22,missing=21
+					21:leaf=-0.375
+					22:leaf=0.166666672
+				12:leaf=-0.449999988
+		4:[Genetic_Pedigree_Coefficient_2<0.731050014] yes=7,no=8,missing=7
+			7:[Level_of_Hemoglobin_2<106.399857] yes=13,no=14,missing=13
+				13:[Level_of_Hemoglobin_2<68.9772491] yes=23,no=24,missing=23
+					23:leaf=-0
+					24:leaf=-0.403225809
+				14:[Level_of_Hemoglobin_2<163.5905] yes=25,no=26,missing=25
+					25:leaf=0.42592594
+					26:leaf=-0.300000012
+			8:[Level_of_Hemoglobin_2<282.590515] yes=15,no=16,missing=15
+				15:[Level_of_Hemoglobin_2<153.636261] yes=27,no=28,missing=27
+					27:leaf=-0.346153855
+					28:leaf=-0.417647064
+				16:leaf=-0.100000001
+booster[1]:
+0:[Genetic_Pedigree_Coefficient_2<0.0182499997] yes=1,no=2,missing=1
+	1:leaf=0.42592594
+	2:[Genetic_Pedigree_Coefficient_2<0.632050037] yes=3,no=4,missing=3
+		3:[Level_of_Hemoglobin_2<201.640106] yes=5,no=6,missing=5
+			5:[Level_of_Hemoglobin_2<80.7304535] yes=9,no=10,missing=9
+				9:[Level_of_Hemoglobin_2<78.677002] yes=17,no=18,missing=17
+					17:leaf=0.455223888
+					18:leaf=0.142857149
+				10:[Genetic_Pedigree_Coefficient_2<0.030650001] yes=19,no=20,missing=19
+					19:leaf=-0.0102040814
+					20:leaf=-0.407142848
+			6:[Level_of_Hemoglobin_2<210.105042] yes=11,no=12,missing=11
+				11:[Level_of_Hemoglobin_2<204.204193] yes=21,no=22,missing=21
+					21:leaf=0.375
+					22:leaf=-0.166666672
+				12:leaf=0.449999988
+		4:[Genetic_Pedigree_Coefficient_2<0.731050014] yes=7,no=8,missing=7
+			7:[Level_of_Hemoglobin_2<106.399857] yes=13,no=14,missing=13
+				13:[Level_of_Hemoglobin_2<68.9772491] yes=23,no=24,missing=23
+					23:leaf=-0
+					24:leaf=0.403225809
+				14:[Level_of_Hemoglobin_2<163.5905] yes=25,no=26,missing=25
+					25:leaf=-0.42592594
+					26:leaf=0.300000012
+			8:[Level_of_Hemoglobin_2<282.590515] yes=15,no=16,missing=15
+				15:[Level_of_Hemoglobin_2<153.636261] yes=27,no=28,missing=27
+					27:leaf=0.346153855
+					28:leaf=0.417647064
+				16:leaf=0.100000001
+booster[2]:
+0:[Genetic_Pedigree_Coefficient_2<0.0210500006] yes=1,no=2,missing=1
+	1:[Genetic_Pedigree_Coefficient_2<0.0110499999] yes=3,no=4,missing=3
+		3:leaf=-0.293439001
+		4:[Level_of_Hemoglobin_2<154.881042] yes=7,no=8,missing=7
+			7:[Level_of_Hemoglobin_2<133.865005] yes=13,no=14,missing=13
+				13:[Level_of_Hemoglobin_2<93.6062469] yes=23,no=24,missing=23
+					23:leaf=-0.0650076866
+					24:leaf=-0.293743044
+				14:[Level_of_Hemoglobin_2<147.03125] yes=25,no=26,missing=25
+					25:leaf=0.393666565
+					26:leaf=0.069002308
+			8:leaf=-0.332229584
+	2:[Genetic_Pedigree_Coefficient_2<0.632050037] yes=5,no=6,missing=5
+		5:[Level_of_Hemoglobin_2<200.930649] yes=9,no=10,missing=9
+			9:[Level_of_Hemoglobin_2<94.3812561] yes=15,no=16,missing=15
+				15:[Genetic_Pedigree_Coefficient_2<0.0930500031] yes=27,no=28,missing=27
+					27:leaf=-0.415993631
+					28:leaf=-0.0645553023
+				16:[Genetic_Pedigree_Coefficient_2<0.0462500006] yes=29,no=30,missing=29
+					29:leaf=0.135293782
+					30:leaf=0.293271303
+			10:[Level_of_Hemoglobin_2<210.105042] yes=17,no=18,missing=17
+				17:[Genetic_Pedigree_Coefficient_2<0.129700005] yes=31,no=32,missing=31
+					31:leaf=-0.405920655
+					32:leaf=0.18464829
+				18:[Level_of_Hemoglobin_2<238.702911] yes=33,no=34,missing=33
+					33:leaf=-0.2381901
+					34:leaf=-0.32222271
+		6:[Genetic_Pedigree_Coefficient_2<0.731050014] yes=11,no=12,missing=11
+			11:[Level_of_Hemoglobin_2<104.14225] yes=19,no=20,missing=19
+				19:[Level_of_Hemoglobin_2<68.9772491] yes=35,no=36,missing=35
+					35:leaf=-0
+					36:leaf=-0.29037872
+				20:[Level_of_Hemoglobin_2<175.437256] yes=37,no=38,missing=37
+					37:leaf=0.25012213
+					38:leaf=-0.220493719
+			12:[Genetic_Pedigree_Coefficient_2<0.990049958] yes=21,no=22,missing=21
+				21:[Level_of_Hemoglobin_2<216.825836] yes=39,no=40,missing=39
+					39:leaf=-0.214266956
+					40:leaf=-0.338135779
+				22:[Level_of_Hemoglobin_2<175.351257] yes=41,no=42,missing=41
+					41:leaf=-0.200123146
+					42:leaf=0.20195809
+booster[3]:
+0:[Genetic_Pedigree_Coefficient_2<0.0210500006] yes=1,no=2,missing=1
+	1:[Genetic_Pedigree_Coefficient_2<0.0110499999] yes=3,no=4,missing=3
+		3:leaf=0.293439001
+		4:[Level_of_Hemoglobin_2<154.881042] yes=7,no=8,missing=7
+			7:[Level_of_Hemoglobin_2<133.865005] yes=13,no=14,missing=13
+				13:[Level_of_Hemoglobin_2<93.6062469] yes=23,no=24,missing=23
+					23:leaf=0.0650076717
+					24:leaf=0.293743044
+				14:[Level_of_Hemoglobin_2<147.03125] yes=25,no=26,missing=25
+					25:leaf=-0.393666565
+					26:leaf=-0.0690023154
+			8:leaf=0.332229584
+	2:[Genetic_Pedigree_Coefficient_2<0.632050037] yes=5,no=6,missing=5
+		5:[Level_of_Hemoglobin_2<200.930649] yes=9,no=10,missing=9
+			9:[Level_of_Hemoglobin_2<94.3812561] yes=15,no=16,missing=15
+				15:[Genetic_Pedigree_Coefficient_2<0.0930500031] yes=27,no=28,missing=27
+					27:leaf=0.415993631
+					28:leaf=0.0645553172
+				16:[Genetic_Pedigree_Coefficient_2<0.0462500006] yes=29,no=30,missing=29
+					29:leaf=-0.135293782
+					30:leaf=-0.293271303
+			10:[Level_of_Hemoglobin_2<210.105042] yes=17,no=18,missing=17
+				17:[Genetic_Pedigree_Coefficient_2<0.129700005] yes=31,no=32,missing=31
+					31:leaf=0.405920655
+					32:leaf=-0.184648275
+				18:[Level_of_Hemoglobin_2<238.702911] yes=33,no=34,missing=33
+					33:leaf=0.238190144
+					34:leaf=0.322222739
+		6:[Genetic_Pedigree_Coefficient_2<0.731050014] yes=11,no=12,missing=11
+			11:[Level_of_Hemoglobin_2<104.14225] yes=19,no=20,missing=19
+				19:[Level_of_Hemoglobin_2<68.9772491] yes=35,no=36,missing=35
+					35:leaf=-0
+					36:leaf=0.29037872
+				20:[Level_of_Hemoglobin_2<175.437256] yes=37,no=38,missing=37
+					37:leaf=-0.25012213
+					38:leaf=0.220493749
+			12:[Genetic_Pedigree_Coefficient_2<0.990049958] yes=21,no=22,missing=21
+				21:[Level_of_Hemoglobin_2<216.825836] yes=39,no=40,missing=39
+					39:leaf=0.214266911
+					40:leaf=0.338135749
+				22:[Level_of_Hemoglobin_2<175.351257] yes=41,no=42,missing=41
+					41:leaf=0.200123116
+					42:leaf=-0.20195812
+booster[4]:
+0:[Level_of_Hemoglobin_2<216.825836] yes=1,no=2,missing=1
+	1:[Level_of_Hemoglobin_2<78.057251] yes=3,no=4,missing=3
+		3:[Genetic_Pedigree_Coefficient_2<0.792199969] yes=7,no=8,missing=7
+			7:leaf=-0.269469053
+			8:[Genetic_Pedigree_Coefficient_2<0.855650008] yes=15,no=16,missing=15
+				15:leaf=0.29880631
+				16:leaf=-0.247927457
+		4:[Genetic_Pedigree_Coefficient_2<0.0210500006] yes=9,no=10,missing=9
+			9:[Level_of_Hemoglobin_2<155.501801] yes=17,no=18,missing=17
+				17:[Level_of_Hemoglobin_2<133.865005] yes=23,no=24,missing=23
+					23:leaf=-0.197500676
+					24:leaf=0.031732522
+				18:leaf=-0.291057706
+			10:[Genetic_Pedigree_Coefficient_2<0.748250008] yes=19,no=20,missing=19
+				19:[Level_of_Hemoglobin_2<97.5156555] yes=25,no=26,missing=25
+					25:leaf=0.010609448
+					26:leaf=0.181113183
+				20:[Level_of_Hemoglobin_2<206.356247] yes=27,no=28,missing=27
+					27:leaf=-0.201337948
+					28:leaf=0.437410384
+	2:[Genetic_Pedigree_Coefficient_2<0.940999985] yes=5,no=6,missing=5
+		5:[Level_of_Hemoglobin_2<230.128998] yes=11,no=12,missing=11
+			11:[Level_of_Hemoglobin_2<226.352051] yes=21,no=22,missing=21
+				21:leaf=-0.280476063
+				22:[Genetic_Pedigree_Coefficient_2<0.290966958] yes=29,no=30,missing=29
+					29:leaf=0.204719573
+					30:leaf=-0.163619727
+			12:leaf=-0.27510789
+		6:[Level_of_Hemoglobin_2<244.191254] yes=13,no=14,missing=13
+			13:leaf=0.0591377579
+			14:leaf=-0.00577077921
+booster[5]:
+0:[Level_of_Hemoglobin_2<216.825836] yes=1,no=2,missing=1
+	1:[Level_of_Hemoglobin_2<78.057251] yes=3,no=4,missing=3
+		3:[Genetic_Pedigree_Coefficient_2<0.792199969] yes=7,no=8,missing=7
+			7:leaf=0.269469053
+			8:[Genetic_Pedigree_Coefficient_2<0.855650008] yes=15,no=16,missing=15
+				15:leaf=-0.29880634
+				16:leaf=0.247927457
+		4:[Genetic_Pedigree_Coefficient_2<0.0210500006] yes=9,no=10,missing=9
+			9:[Level_of_Hemoglobin_2<155.501801] yes=17,no=18,missing=17
+				17:[Level_of_Hemoglobin_2<133.865005] yes=23,no=24,missing=23
+					23:leaf=0.197500691
+					24:leaf=-0.0317324735
+				18:leaf=0.291057706
+			10:[Genetic_Pedigree_Coefficient_2<0.748250008] yes=19,no=20,missing=19
+				19:[Level_of_Hemoglobin_2<97.5156555] yes=25,no=26,missing=25
+					25:leaf=-0.0106094535
+					26:leaf=-0.181113228
+				20:[Level_of_Hemoglobin_2<206.356247] yes=27,no=28,missing=27
+					27:leaf=0.201337948
+					28:leaf=-0.437410384
+	2:[Genetic_Pedigree_Coefficient_2<0.940999985] yes=5,no=6,missing=5
+		5:[Level_of_Hemoglobin_2<230.128998] yes=11,no=12,missing=11
+			11:[Level_of_Hemoglobin_2<226.352051] yes=21,no=22,missing=21
+				21:leaf=0.280476063
+				22:[Genetic_Pedigree_Coefficient_2<0.290966958] yes=29,no=30,missing=29
+					29:leaf=-0.204719514
+					30:leaf=0.163619742
+			12:leaf=0.27510789
+		6:[Level_of_Hemoglobin_2<244.191254] yes=13,no=14,missing=13
+			13:leaf=-0.0591377765
+			14:leaf=0.00577078573
+booster[6]:
+0:[Level_of_Hemoglobin_2<185.368256] yes=1,no=2,missing=1
+	1:[Genetic_Pedigree_Coefficient_2<0.680649996] yes=3,no=4,missing=3
+		3:[Genetic_Pedigree_Coefficient_2<0.0930500031] yes=7,no=8,missing=7
+			7:[Level_of_Hemoglobin_2<104.960052] yes=15,no=16,missing=15
+				15:[Level_of_Hemoglobin_2<96.3342514] yes=31,no=32,missing=31
+					31:leaf=-0.201322064
+					32:leaf=-0.442916423
+				16:[Genetic_Pedigree_Coefficient_2<0.0156500004] yes=33,no=34,missing=33
+					33:leaf=-0.148483679
+					34:leaf=0.171031311
+			8:[Level_of_Hemoglobin_2<78.5] yes=17,no=18,missing=17
+				17:[Genetic_Pedigree_Coefficient_2<0.15625] yes=35,no=36,missing=35
+					35:leaf=0.114620708
+					36:leaf=-0.25281322
+				18:[Genetic_Pedigree_Coefficient_2<0.429050028] yes=37,no=38,missing=37
+					37:leaf=0.227301762
+					38:leaf=0.0578602105
+		4:[Genetic_Pedigree_Coefficient_2<0.837249994] yes=9,no=10,missing=9
+			9:[Level_of_Hemoglobin_2<157.754501] yes=19,no=20,missing=19
+				19:[Genetic_Pedigree_Coefficient_2<0.697250009] yes=39,no=40,missing=39
+					39:leaf=-0.261213064
+					40:leaf=0.0196377952
+				20:[Genetic_Pedigree_Coefficient_2<0.714050055] yes=41,no=42,missing=41
+					41:leaf=0.0570912845
+					42:leaf=-0.298716396
+			10:[Level_of_Hemoglobin_2<105.586655] yes=21,no=22,missing=21
+				21:[Level_of_Hemoglobin_2<91.5858002] yes=43,no=44,missing=43
+					43:leaf=-0.205998451
+					44:leaf=0.0159730483
+				22:leaf=-0.240682319
+	2:[Genetic_Pedigree_Coefficient_2<0.133249998] yes=5,no=6,missing=5
+		5:[Level_of_Hemoglobin_2<216.679993] yes=11,no=12,missing=11
+			11:[Genetic_Pedigree_Coefficient_2<0.0814500004] yes=23,no=24,missing=23
+				23:leaf=-0.400017709
+				24:leaf=-0.154371411
+			12:[Level_of_Hemoglobin_2<230.584854] yes=25,no=26,missing=25
+				25:[Level_of_Hemoglobin_2<228.46344] yes=45,no=46,missing=45
+					45:leaf=-0.152070865
+					46:leaf=0.0461739711
+				26:leaf=-0.254989713
+		6:[Level_of_Hemoglobin_2<216.825836] yes=13,no=14,missing=13
+			13:[Genetic_Pedigree_Coefficient_2<0.31370002] yes=27,no=28,missing=27
+				27:[Level_of_Hemoglobin_2<210.105042] yes=47,no=48,missing=47
+					47:leaf=0.261487186
+					48:leaf=-0.183823004
+				28:[Level_of_Hemoglobin_2<207.360397] yes=49,no=50,missing=49
+					49:leaf=-0.194344714
+					50:leaf=0.169236198
+			14:[Genetic_Pedigree_Coefficient_2<0.247766942] yes=29,no=30,missing=29
+				29:[Genetic_Pedigree_Coefficient_2<0.225649998] yes=51,no=52,missing=51
+					51:leaf=-0.234841496
+					52:leaf=0.499268174
+				30:[Genetic_Pedigree_Coefficient_2<0.940999985] yes=53,no=54,missing=53
+					53:leaf=-0.243360072
+					54:leaf=0.0242457315
+booster[7]:
+0:[Level_of_Hemoglobin_2<185.368256] yes=1,no=2,missing=1
+	1:[Genetic_Pedigree_Coefficient_2<0.680649996] yes=3,no=4,missing=3
+		3:[Genetic_Pedigree_Coefficient_2<0.0930500031] yes=7,no=8,missing=7
+			7:[Level_of_Hemoglobin_2<104.960052] yes=15,no=16,missing=15
+				15:[Level_of_Hemoglobin_2<96.3342514] yes=31,no=32,missing=31
+					31:leaf=0.201322064
+					32:leaf=0.442916423
+				16:[Genetic_Pedigree_Coefficient_2<0.0156500004] yes=33,no=34,missing=33
+					33:leaf=0.148483679
+					34:leaf=-0.171031296
+			8:[Level_of_Hemoglobin_2<78.5] yes=17,no=18,missing=17
+				17:[Genetic_Pedigree_Coefficient_2<0.15625] yes=35,no=36,missing=35
+					35:leaf=-0.114620708
+					36:leaf=0.25281322
+				18:[Genetic_Pedigree_Coefficient_2<0.429050028] yes=37,no=38,missing=37
+					37:leaf=-0.227301762
+					38:leaf=-0.0578602329
+		4:[Genetic_Pedigree_Coefficient_2<0.837249994] yes=9,no=10,missing=9
+			9:[Level_of_Hemoglobin_2<157.754501] yes=19,no=20,missing=19
+				19:[Genetic_Pedigree_Coefficient_2<0.697250009] yes=39,no=40,missing=39
+					39:leaf=0.261213064
+					40:leaf=-0.0196378268
+				20:[Genetic_Pedigree_Coefficient_2<0.714050055] yes=41,no=42,missing=41
+					41:leaf=-0.057091292
+					42:leaf=0.298716396
+			10:[Level_of_Hemoglobin_2<105.586655] yes=21,no=22,missing=21
+				21:[Level_of_Hemoglobin_2<91.5858002] yes=43,no=44,missing=43
+					43:leaf=0.205998436
+					44:leaf=-0.0159731191
+				22:leaf=0.240682304
+	2:[Genetic_Pedigree_Coefficient_2<0.133249998] yes=5,no=6,missing=5
+		5:[Level_of_Hemoglobin_2<216.679993] yes=11,no=12,missing=11
+			11:[Genetic_Pedigree_Coefficient_2<0.0814500004] yes=23,no=24,missing=23
+				23:leaf=0.400017709
+				24:leaf=0.154371411
+			12:[Level_of_Hemoglobin_2<230.584854] yes=25,no=26,missing=25
+				25:[Level_of_Hemoglobin_2<228.46344] yes=45,no=46,missing=45
+					45:leaf=0.15207088
+					46:leaf=-0.0461739711
+				26:leaf=0.254989713
+		6:[Level_of_Hemoglobin_2<216.825836] yes=13,no=14,missing=13
+			13:[Genetic_Pedigree_Coefficient_2<0.31370002] yes=27,no=28,missing=27
+				27:[Level_of_Hemoglobin_2<210.105042] yes=47,no=48,missing=47
+					47:leaf=-0.261487186
+					48:leaf=0.183823019
+				28:[Level_of_Hemoglobin_2<207.360397] yes=49,no=50,missing=49
+					49:leaf=0.194344699
+					50:leaf=-0.169236183
+			14:[Genetic_Pedigree_Coefficient_2<0.247766942] yes=29,no=30,missing=29
+				29:[Genetic_Pedigree_Coefficient_2<0.225649998] yes=51,no=52,missing=51
+					51:leaf=0.234841511
+					52:leaf=-0.499268174
+				30:[Genetic_Pedigree_Coefficient_2<0.940999985] yes=53,no=54,missing=53
+					53:leaf=0.243360072
+					54:leaf=-0.024245752
+booster[8]:
+0:[Level_of_Hemoglobin_2<174.240112] yes=1,no=2,missing=1
+	1:[Level_of_Hemoglobin_2<88.6422501] yes=3,no=4,missing=3
+		3:[Genetic_Pedigree_Coefficient_2<0.0930500031] yes=7,no=8,missing=7
+			7:[Level_of_Hemoglobin_2<71.0657959] yes=15,no=16,missing=15
+				15:[Level_of_Hemoglobin_2<68.6412506] yes=29,no=30,missing=29
+					29:leaf=-0.178494141
+					30:leaf=0.0783578753
+				16:leaf=-0.289819568
+			8:[Genetic_Pedigree_Coefficient_2<0.422600001] yes=17,no=18,missing=17
+				17:[Level_of_Hemoglobin_2<78.057251] yes=31,no=32,missing=31
+					31:leaf=-0.198655218
+					32:leaf=0.224415645
+				18:[Genetic_Pedigree_Coefficient_2<0.664250016] yes=33,no=34,missing=33
+					33:leaf=-0.354055077
+					34:leaf=-0.026499955
+		4:[Genetic_Pedigree_Coefficient_2<0.680649996] yes=9,no=10,missing=9
+			9:[Genetic_Pedigree_Coefficient_2<0.0650499985] yes=19,no=20,missing=19
+				19:[Level_of_Hemoglobin_2<119.793045] yes=35,no=36,missing=35
+					35:leaf=-0.130638003
+					36:leaf=0.0593531244
+				20:[Level_of_Hemoglobin_2<139.594254] yes=37,no=38,missing=37
+					37:leaf=0.113407984
+					38:leaf=0.254065484
+			10:[Level_of_Hemoglobin_2<92.6408539] yes=21,no=22,missing=21
+				21:leaf=0.281952053
+				22:[Genetic_Pedigree_Coefficient_2<0.801050007] yes=39,no=40,missing=39
+					39:leaf=-0.0431175865
+					40:leaf=-0.148930952
+	2:[Genetic_Pedigree_Coefficient_2<0.030650001] yes=5,no=6,missing=5
+		5:[Genetic_Pedigree_Coefficient_2<0.00724999979] yes=11,no=12,missing=11
+			11:[Genetic_Pedigree_Coefficient_2<0.00304999994] yes=23,no=24,missing=23
+				23:leaf=-0.203129455
+				24:leaf=0.0412057862
+			12:leaf=-0.354611009
+		6:[Level_of_Hemoglobin_2<238.702911] yes=13,no=14,missing=13
+			13:[Genetic_Pedigree_Coefficient_2<0.442250013] yes=25,no=26,missing=25
+				25:[Level_of_Hemoglobin_2<187.416504] yes=41,no=42,missing=41
+					41:leaf=0.247985765
+					42:leaf=-0.0507211275
+				26:[Genetic_Pedigree_Coefficient_2<0.828199983] yes=43,no=44,missing=43
+					43:leaf=-0.213956043
+					44:leaf=0.0273817964
+			14:[Genetic_Pedigree_Coefficient_2<0.940999985] yes=27,no=28,missing=27
+				27:[Level_of_Hemoglobin_2<251.06424] yes=45,no=46,missing=45
+					45:leaf=-0.120057113
+					46:leaf=-0.243525416
+				28:leaf=-0.010789603
+booster[9]:
+0:[Level_of_Hemoglobin_2<174.240112] yes=1,no=2,missing=1
+	1:[Level_of_Hemoglobin_2<88.6422501] yes=3,no=4,missing=3
+		3:[Genetic_Pedigree_Coefficient_2<0.0930500031] yes=7,no=8,missing=7
+			7:[Level_of_Hemoglobin_2<71.0657959] yes=15,no=16,missing=15
+				15:[Level_of_Hemoglobin_2<68.6412506] yes=29,no=30,missing=29
+					29:leaf=0.178494126
+					30:leaf=-0.078357935
+				16:leaf=0.289819598
+			8:[Genetic_Pedigree_Coefficient_2<0.422600001] yes=17,no=18,missing=17
+				17:[Level_of_Hemoglobin_2<78.057251] yes=31,no=32,missing=31
+					31:leaf=0.198655277
+					32:leaf=-0.224415615
+				18:[Genetic_Pedigree_Coefficient_2<0.664250016] yes=33,no=34,missing=33
+					33:leaf=0.354055017
+					34:leaf=0.0264999736
+		4:[Genetic_Pedigree_Coefficient_2<0.680649996] yes=9,no=10,missing=9
+			9:[Genetic_Pedigree_Coefficient_2<0.0650499985] yes=19,no=20,missing=19
+				19:[Level_of_Hemoglobin_2<119.793045] yes=35,no=36,missing=35
+					35:leaf=0.130638003
+					36:leaf=-0.0593530945
+				20:[Level_of_Hemoglobin_2<139.594254] yes=37,no=38,missing=37
+					37:leaf=-0.113407969
+					38:leaf=-0.254065484
+			10:[Level_of_Hemoglobin_2<92.6408539] yes=21,no=22,missing=21
+				21:leaf=-0.281952083
+				22:[Genetic_Pedigree_Coefficient_2<0.801050007] yes=39,no=40,missing=39
+					39:leaf=0.0431175977
+					40:leaf=0.148930937
+	2:[Genetic_Pedigree_Coefficient_2<0.030650001] yes=5,no=6,missing=5
+		5:[Genetic_Pedigree_Coefficient_2<0.00724999979] yes=11,no=12,missing=11
+			11:[Genetic_Pedigree_Coefficient_2<0.00304999994] yes=23,no=24,missing=23
+				23:leaf=0.203129441
+				24:leaf=-0.0412057936
+			12:leaf=0.35461098
+		6:[Level_of_Hemoglobin_2<238.702911] yes=13,no=14,missing=13
+			13:[Genetic_Pedigree_Coefficient_2<0.442250013] yes=25,no=26,missing=25
+				25:[Level_of_Hemoglobin_2<187.416504] yes=41,no=42,missing=41
+					41:leaf=-0.247985765
+					42:leaf=0.0507211015
+				26:[Genetic_Pedigree_Coefficient_2<0.828199983] yes=43,no=44,missing=43
+					43:leaf=0.213956058
+					44:leaf=-0.0273817591
+			14:[Genetic_Pedigree_Coefficient_2<0.940999985] yes=27,no=28,missing=27
+				27:[Level_of_Hemoglobin_2<251.06424] yes=45,no=46,missing=45
+					45:leaf=0.120057106
+					46:leaf=0.243525416
+				28:leaf=0.0107895862
+booster[10]:
+0:[Genetic_Pedigree_Coefficient_2<0.0110499999] yes=1,no=2,missing=1
+	1:[Genetic_Pedigree_Coefficient_2<0.00724999979] yes=3,no=4,missing=3
+		3:[Genetic_Pedigree_Coefficient_2<0.00564999972] yes=7,no=8,missing=7
+			7:[Level_of_Hemoglobin_2<155.501801] yes=13,no=14,missing=13
+				13:[Level_of_Hemoglobin_2<150.431458] yes=23,no=24,missing=23
+					23:leaf=-0.117731482
+					24:leaf=0.302324533
+				14:leaf=-0.228880331
+			8:leaf=0.116820894
+		4:leaf=-0.234274596
+	2:[Genetic_Pedigree_Coefficient_2<0.58525002] yes=5,no=6,missing=5
+		5:[Level_of_Hemoglobin_2<200.930649] yes=9,no=10,missing=9
+			9:[Level_of_Hemoglobin_2<85.7476959] yes=15,no=16,missing=15
+				15:[Genetic_Pedigree_Coefficient_2<0.422600001] yes=25,no=26,missing=25
+					25:leaf=-0.0108719505
+					26:leaf=-0.345627904
+				16:[Genetic_Pedigree_Coefficient_2<0.0462500006] yes=27,no=28,missing=27
+					27:leaf=-0.0230279602
+					28:leaf=0.122798949
+			10:[Genetic_Pedigree_Coefficient_2<0.225649998] yes=17,no=18,missing=17
+				17:[Genetic_Pedigree_Coefficient_2<0.0342499986] yes=29,no=30,missing=29
+					29:leaf=-0.0390940905
+					30:leaf=-0.228835106
+				18:[Genetic_Pedigree_Coefficient_2<0.255050004] yes=31,no=32,missing=31
+					31:leaf=0.235039517
+					32:leaf=-0.127641588
+		6:[Level_of_Hemoglobin_2<102.921249] yes=11,no=12,missing=11
+			11:[Level_of_Hemoglobin_2<83.6310501] yes=19,no=20,missing=19
+				19:[Level_of_Hemoglobin_2<74.9092484] yes=33,no=34,missing=33
+					33:leaf=-0.0896684304
+					34:leaf=0.263494134
+				20:[Genetic_Pedigree_Coefficient_2<0.97025001] yes=35,no=36,missing=35
+					35:leaf=-0.244239181
+					36:leaf=0.121656261
+			12:[Level_of_Hemoglobin_2<104.960251] yes=21,no=22,missing=21
+				21:[Genetic_Pedigree_Coefficient_2<0.714249969] yes=37,no=38,missing=37
+					37:leaf=-0.0221337453
+					38:leaf=0.376685858
+				22:[Level_of_Hemoglobin_2<153.636261] yes=39,no=40,missing=39
+					39:leaf=0.0032890318
+					40:leaf=-0.103872389
+booster[11]:
+0:[Genetic_Pedigree_Coefficient_2<0.0110499999] yes=1,no=2,missing=1
+	1:[Genetic_Pedigree_Coefficient_2<0.00724999979] yes=3,no=4,missing=3
+		3:[Genetic_Pedigree_Coefficient_2<0.00564999972] yes=7,no=8,missing=7
+			7:[Level_of_Hemoglobin_2<155.501801] yes=13,no=14,missing=13
+				13:[Level_of_Hemoglobin_2<150.431458] yes=23,no=24,missing=23
+					23:leaf=0.117731482
+					24:leaf=-0.302324504
+				14:leaf=0.228880346
+			8:leaf=-0.116820917
+		4:leaf=0.234274596
+	2:[Genetic_Pedigree_Coefficient_2<0.58525002] yes=5,no=6,missing=5
+		5:[Level_of_Hemoglobin_2<200.930649] yes=9,no=10,missing=9
+			9:[Level_of_Hemoglobin_2<85.7476959] yes=15,no=16,missing=15
+				15:[Genetic_Pedigree_Coefficient_2<0.422600001] yes=25,no=26,missing=25
+					25:leaf=0.0108719533
+					26:leaf=0.345627934
+				16:[Genetic_Pedigree_Coefficient_2<0.0462500006] yes=27,no=28,missing=27
+					27:leaf=0.0230279658
+					28:leaf=-0.122798949
+			10:[Genetic_Pedigree_Coefficient_2<0.225649998] yes=17,no=18,missing=17
+				17:[Genetic_Pedigree_Coefficient_2<0.0342499986] yes=29,no=30,missing=29
+					29:leaf=0.0390941352
+					30:leaf=0.228835121
+				18:[Genetic_Pedigree_Coefficient_2<0.255050004] yes=31,no=32,missing=31
+					31:leaf=-0.235039502
+					32:leaf=0.127641618
+		6:[Level_of_Hemoglobin_2<102.921249] yes=11,no=12,missing=11
+			11:[Level_of_Hemoglobin_2<83.6310501] yes=19,no=20,missing=19
+				19:[Level_of_Hemoglobin_2<74.9092484] yes=33,no=34,missing=33
+					33:leaf=0.0896684527
+					34:leaf=-0.263494164
+				20:[Genetic_Pedigree_Coefficient_2<0.97025001] yes=35,no=36,missing=35
+					35:leaf=0.244239181
+					36:leaf=-0.121656269
+			12:[Level_of_Hemoglobin_2<104.960251] yes=21,no=22,missing=21
+				21:[Genetic_Pedigree_Coefficient_2<0.714249969] yes=37,no=38,missing=37
+					37:leaf=0.0221337117
+					38:leaf=-0.376685828
+				22:[Level_of_Hemoglobin_2<153.636261] yes=39,no=40,missing=39
+					39:leaf=-0.00328899338
+					40:leaf=0.103872381
+booster[12]:
+0:[Level_of_Hemoglobin_2<238.702911] yes=1,no=2,missing=1
+	1:[Level_of_Hemoglobin_2<78.057251] yes=3,no=4,missing=3
+		3:[Level_of_Hemoglobin_2<70.6440506] yes=7,no=8,missing=7
+			7:[Level_of_Hemoglobin_2<70.1406555] yes=13,no=14,missing=13
+				13:[Genetic_Pedigree_Coefficient_2<0.68900001] yes=21,no=22,missing=21
+					21:leaf=-0.22125417
+					22:leaf=0.0610234812
+				14:leaf=0.484706581
+			8:leaf=-0.203828007
+		4:[Genetic_Pedigree_Coefficient_2<0.0930500031] yes=9,no=10,missing=9
+			9:[Level_of_Hemoglobin_2<104.448502] yes=15,no=16,missing=15
+				15:[Level_of_Hemoglobin_2<93.8961945] yes=23,no=24,missing=23
+					23:leaf=-0.022988122
+					24:leaf=-0.29327929
+				16:[Level_of_Hemoglobin_2<156.125061] yes=25,no=26,missing=25
+					25:leaf=0.0763888955
+					26:leaf=-0.154139608
+			10:[Genetic_Pedigree_Coefficient_2<0.319249988] yes=17,no=18,missing=17
+				17:[Genetic_Pedigree_Coefficient_2<0.172250003] yes=27,no=28,missing=27
+					27:leaf=0.0325334892
+					28:leaf=0.164495513
+				18:[Level_of_Hemoglobin_2<78.9434509] yes=29,no=30,missing=29
+					29:leaf=0.256086022
+					30:leaf=-0.016258318
+	2:[Genetic_Pedigree_Coefficient_2<0.532999992] yes=5,no=6,missing=5
+		5:leaf=-0.223566592
+		6:[Genetic_Pedigree_Coefficient_2<0.731050014] yes=11,no=12,missing=11
+			11:leaf=0.10122861
+			12:[Level_of_Hemoglobin_2<282.590515] yes=19,no=20,missing=19
+				19:leaf=-0.15835768
+				20:leaf=0.0430261977
+booster[13]:
+0:[Level_of_Hemoglobin_2<238.702911] yes=1,no=2,missing=1
+	1:[Level_of_Hemoglobin_2<78.057251] yes=3,no=4,missing=3
+		3:[Level_of_Hemoglobin_2<70.6440506] yes=7,no=8,missing=7
+			7:[Level_of_Hemoglobin_2<70.1406555] yes=13,no=14,missing=13
+				13:[Genetic_Pedigree_Coefficient_2<0.68900001] yes=21,no=22,missing=21
+					21:leaf=0.22125417
+					22:leaf=-0.0610235147
+				14:leaf=-0.48470664
+			8:leaf=0.203827992
+		4:[Genetic_Pedigree_Coefficient_2<0.0930500031] yes=9,no=10,missing=9
+			9:[Level_of_Hemoglobin_2<104.448502] yes=15,no=16,missing=15
+				15:[Level_of_Hemoglobin_2<93.8961945] yes=23,no=24,missing=23
+					23:leaf=0.022988122
+					24:leaf=0.29327929
+				16:[Level_of_Hemoglobin_2<156.125061] yes=25,no=26,missing=25
+					25:leaf=-0.0763888657
+					26:leaf=0.154139608
+			10:[Genetic_Pedigree_Coefficient_2<0.319249988] yes=17,no=18,missing=17
+				17:[Genetic_Pedigree_Coefficient_2<0.172250003] yes=27,no=28,missing=27
+					27:leaf=-0.0325333886
+					28:leaf=-0.164495468
+				18:[Level_of_Hemoglobin_2<78.9434509] yes=29,no=30,missing=29
+					29:leaf=-0.256085962
+					30:leaf=0.016258359
+	2:[Genetic_Pedigree_Coefficient_2<0.532999992] yes=5,no=6,missing=5
+		5:leaf=0.223566577
+		6:[Genetic_Pedigree_Coefficient_2<0.731050014] yes=11,no=12,missing=11
+			11:leaf=-0.101228528
+			12:[Level_of_Hemoglobin_2<282.590515] yes=19,no=20,missing=19
+				19:leaf=0.158357635
+				20:leaf=-0.0430261977
+booster[14]:
+0:[Level_of_Hemoglobin_2<88.6422501] yes=1,no=2,missing=1
+	1:[Level_of_Hemoglobin_2<87.1422501] yes=3,no=4,missing=3
+		3:[Genetic_Pedigree_Coefficient_2<0.0930500031] yes=7,no=8,missing=7
+			7:[Level_of_Hemoglobin_2<71.0657959] yes=13,no=14,missing=13
+				13:leaf=-0.0101118721
+				14:leaf=-0.246214435
+			8:[Genetic_Pedigree_Coefficient_2<0.422600001] yes=15,no=16,missing=15
+				15:[Level_of_Hemoglobin_2<79.8344498] yes=23,no=24,missing=23
+					23:leaf=-0.0721068978
+					24:leaf=0.26434654
+				16:[Level_of_Hemoglobin_2<78.9434509] yes=25,no=26,missing=25
+					25:leaf=0.0112334536
+					26:leaf=-0.166929707
+		4:leaf=-0.287700027
+	2:[Level_of_Hemoglobin_2<93.5090027] yes=5,no=6,missing=5
+		5:[Genetic_Pedigree_Coefficient_2<0.0229000002] yes=9,no=10,missing=9
+			9:leaf=0.542568266
+			10:[Genetic_Pedigree_Coefficient_2<0.0650499985] yes=17,no=18,missing=17
+				17:leaf=-0.280203581
+				18:[Genetic_Pedigree_Coefficient_2<0.558049977] yes=27,no=28,missing=27
+					27:leaf=0.295235515
+					28:leaf=0.0861232728
+		6:[Genetic_Pedigree_Coefficient_2<0.0182499997] yes=11,no=12,missing=11
+			11:[Genetic_Pedigree_Coefficient_2<0.00304999994] yes=19,no=20,missing=19
+				19:[Level_of_Hemoglobin_2<134.328201] yes=29,no=30,missing=29
+					29:leaf=0.159844652
+					30:leaf=-0.131564602
+				20:[Level_of_Hemoglobin_2<226.051453] yes=31,no=32,missing=31
+					31:leaf=-0.173809454
+					32:leaf=0.0955435485
+			12:[Level_of_Hemoglobin_2<94.3812561] yes=21,no=22,missing=21
+				21:[Level_of_Hemoglobin_2<94.1870499] yes=33,no=34,missing=33
+					33:leaf=-0.00366249285
+					34:leaf=-0.41749531
+				22:[Level_of_Hemoglobin_2<174.240112] yes=35,no=36,missing=35
+					35:leaf=0.0357664116
+					36:leaf=-0.0379375219
+booster[15]:
+0:[Level_of_Hemoglobin_2<88.6422501] yes=1,no=2,missing=1
+	1:[Level_of_Hemoglobin_2<87.1422501] yes=3,no=4,missing=3
+		3:[Genetic_Pedigree_Coefficient_2<0.0930500031] yes=7,no=8,missing=7
+			7:[Level_of_Hemoglobin_2<71.0657959] yes=13,no=14,missing=13
+				13:leaf=0.0101119336
+				14:leaf=0.246214435
+			8:[Genetic_Pedigree_Coefficient_2<0.422600001] yes=15,no=16,missing=15
+				15:[Level_of_Hemoglobin_2<79.8344498] yes=23,no=24,missing=23
+					23:leaf=0.0721069649
+					24:leaf=-0.26434654
+				16:[Level_of_Hemoglobin_2<78.9434509] yes=25,no=26,missing=25
+					25:leaf=-0.0112334751
+					26:leaf=0.166929692
+		4:leaf=0.287699968
+	2:[Level_of_Hemoglobin_2<93.5090027] yes=5,no=6,missing=5
+		5:[Genetic_Pedigree_Coefficient_2<0.0229000002] yes=9,no=10,missing=9
+			9:leaf=-0.542568326
+			10:[Genetic_Pedigree_Coefficient_2<0.0650499985] yes=17,no=18,missing=17
+				17:leaf=0.280203611
+				18:[Genetic_Pedigree_Coefficient_2<0.558049977] yes=27,no=28,missing=27
+					27:leaf=-0.295235515
+					28:leaf=-0.0861233175
+		6:[Genetic_Pedigree_Coefficient_2<0.0182499997] yes=11,no=12,missing=11
+			11:[Genetic_Pedigree_Coefficient_2<0.00304999994] yes=19,no=20,missing=19
+				19:[Level_of_Hemoglobin_2<134.328201] yes=29,no=30,missing=29
+					29:leaf=-0.159844801
+					30:leaf=0.131564543
+				20:[Level_of_Hemoglobin_2<226.051453] yes=31,no=32,missing=31
+					31:leaf=0.173809454
+					32:leaf=-0.09554369
+			12:[Level_of_Hemoglobin_2<94.3812561] yes=21,no=22,missing=21
+				21:[Level_of_Hemoglobin_2<94.1870499] yes=33,no=34,missing=33
+					33:leaf=0.00366249401
+					34:leaf=0.41749534
+				22:[Level_of_Hemoglobin_2<174.240112] yes=35,no=36,missing=35
+					35:leaf=-0.0357664488
+					36:leaf=0.0379375108
+booster[16]:
+0:[Genetic_Pedigree_Coefficient_2<0.000650000002] yes=1,no=2,missing=1
+	1:[Level_of_Hemoglobin_2<126.677048] yes=3,no=4,missing=3
+		3:leaf=-0.220935643
+		4:[Level_of_Hemoglobin_2<138.449463] yes=7,no=8,missing=7
+			7:leaf=0.325920224
+			8:leaf=-0.211161673
+	2:[Level_of_Hemoglobin_2<250.905701] yes=5,no=6,missing=5
+		5:[Level_of_Hemoglobin_2<132.365051] yes=9,no=10,missing=9
+			9:[Level_of_Hemoglobin_2<130.074051] yes=13,no=14,missing=13
+				13:[Genetic_Pedigree_Coefficient_2<0.837249994] yes=17,no=18,missing=17
+					17:leaf=0.00454923091
+					18:leaf=-0.108568192
+				14:[Genetic_Pedigree_Coefficient_2<0.367249995] yes=19,no=20,missing=19
+					19:leaf=-0.528591871
+					20:leaf=-0.0759185329
+			10:[Level_of_Hemoglobin_2<156.125061] yes=15,no=16,missing=15
+				15:[Genetic_Pedigree_Coefficient_2<0.765650034] yes=21,no=22,missing=21
+					21:leaf=0.152361482
+					22:leaf=-0.0917807519
+				16:[Genetic_Pedigree_Coefficient_2<0.030650001] yes=23,no=24,missing=23
+					23:leaf=-0.176756322
+					24:leaf=0.0253687799
+		6:[Genetic_Pedigree_Coefficient_2<0.903400004] yes=11,no=12,missing=11
+			11:leaf=-0.203843564
+			12:leaf=0.030696271
+booster[17]:
+0:[Genetic_Pedigree_Coefficient_2<0.000650000002] yes=1,no=2,missing=1
+	1:[Level_of_Hemoglobin_2<126.677048] yes=3,no=4,missing=3
+		3:leaf=0.220935643
+		4:[Level_of_Hemoglobin_2<138.449463] yes=7,no=8,missing=7
+			7:leaf=-0.325920224
+			8:leaf=0.211161673
+	2:[Level_of_Hemoglobin_2<250.905701] yes=5,no=6,missing=5
+		5:[Level_of_Hemoglobin_2<132.365051] yes=9,no=10,missing=9
+			9:[Level_of_Hemoglobin_2<130.074051] yes=13,no=14,missing=13
+				13:[Genetic_Pedigree_Coefficient_2<0.837249994] yes=17,no=18,missing=17
+					17:leaf=-0.00454924908
+					18:leaf=0.108568214
+				14:[Genetic_Pedigree_Coefficient_2<0.367249995] yes=19,no=20,missing=19
+					19:leaf=0.528591871
+					20:leaf=0.0759185404
+			10:[Level_of_Hemoglobin_2<156.125061] yes=15,no=16,missing=15
+				15:[Genetic_Pedigree_Coefficient_2<0.765650034] yes=21,no=22,missing=21
+					21:leaf=-0.152361497
+					22:leaf=0.0917807743
+				16:[Genetic_Pedigree_Coefficient_2<0.030650001] yes=23,no=24,missing=23
+					23:leaf=0.176756307
+					24:leaf=-0.0253687762
+		6:[Genetic_Pedigree_Coefficient_2<0.903400004] yes=11,no=12,missing=11
+			11:leaf=0.203843534
+			12:leaf=-0.0306962803
+booster[18]:
+0:[Genetic_Pedigree_Coefficient_2<0.000650000002] yes=1,no=2,missing=1
+	1:[Level_of_Hemoglobin_2<126.677048] yes=3,no=4,missing=3
+		3:leaf=-0.194833875
+		4:[Level_of_Hemoglobin_2<138.449463] yes=7,no=8,missing=7
+			7:leaf=0.180491135
+			8:leaf=-0.181627601
+	2:[Level_of_Hemoglobin_2<141.134491] yes=5,no=6,missing=5
+		5:[Level_of_Hemoglobin_2<133.287048] yes=9,no=10,missing=9
+			9:[Level_of_Hemoglobin_2<132.365051] yes=13,no=14,missing=13
+				13:[Level_of_Hemoglobin_2<131.446259] yes=21,no=22,missing=21
+					21:leaf=-0.00562585238
+					22:leaf=-0.293941915
+				14:leaf=0.329047173
+			10:[Genetic_Pedigree_Coefficient_2<0.129700005] yes=15,no=16,missing=15
+				15:[Genetic_Pedigree_Coefficient_2<0.0182499997] yes=23,no=24,missing=23
+					23:leaf=-0.178195596
+					24:leaf=0.201859653
+				16:[Genetic_Pedigree_Coefficient_2<0.585449994] yes=25,no=26,missing=25
+					25:leaf=-0.378152281
+					26:leaf=-0.0499931946
+		6:[Level_of_Hemoglobin_2<156.125061] yes=11,no=12,missing=11
+			11:[Genetic_Pedigree_Coefficient_2<0.765650034] yes=17,no=18,missing=17
+				17:[Genetic_Pedigree_Coefficient_2<0.0462500006] yes=27,no=28,missing=27
+					27:leaf=0.0853371099
+					28:leaf=0.270685494
+				18:[Genetic_Pedigree_Coefficient_2<0.874249995] yes=29,no=30,missing=29
+					29:leaf=-0.175189406
+					30:leaf=0.102887012
+			12:[Level_of_Hemoglobin_2<161.417053] yes=19,no=20,missing=19
+				19:[Genetic_Pedigree_Coefficient_2<0.30825001] yes=31,no=32,missing=31
+					31:leaf=-0.318345904
+					32:leaf=-0.00565662608
+				20:[Level_of_Hemoglobin_2<164.994049] yes=33,no=34,missing=33
+					33:leaf=0.170580596
+					34:leaf=-0.0119894333
+booster[19]:
+0:[Genetic_Pedigree_Coefficient_2<0.000650000002] yes=1,no=2,missing=1
+	1:[Level_of_Hemoglobin_2<126.677048] yes=3,no=4,missing=3
+		3:leaf=0.19483389
+		4:[Level_of_Hemoglobin_2<138.449463] yes=7,no=8,missing=7
+			7:leaf=-0.18049112
+			8:leaf=0.181627601
+	2:[Level_of_Hemoglobin_2<141.134491] yes=5,no=6,missing=5
+		5:[Level_of_Hemoglobin_2<133.287048] yes=9,no=10,missing=9
+			9:[Level_of_Hemoglobin_2<132.365051] yes=13,no=14,missing=13
+				13:[Level_of_Hemoglobin_2<131.446259] yes=21,no=22,missing=21
+					21:leaf=0.00562586449
+					22:leaf=0.293941915
+				14:leaf=-0.329047143
+			10:[Genetic_Pedigree_Coefficient_2<0.129700005] yes=15,no=16,missing=15
+				15:[Genetic_Pedigree_Coefficient_2<0.0182499997] yes=23,no=24,missing=23
+					23:leaf=0.178195626
+					24:leaf=-0.201859638
+				16:[Genetic_Pedigree_Coefficient_2<0.585449994] yes=25,no=26,missing=25
+					25:leaf=0.378152251
+					26:leaf=0.0499932431
+		6:[Level_of_Hemoglobin_2<156.125061] yes=11,no=12,missing=11
+			11:[Genetic_Pedigree_Coefficient_2<0.765650034] yes=17,no=18,missing=17
+				17:[Genetic_Pedigree_Coefficient_2<0.0462500006] yes=27,no=28,missing=27
+					27:leaf=-0.0853370577
+					28:leaf=-0.270685494
+				18:[Genetic_Pedigree_Coefficient_2<0.874249995] yes=29,no=30,missing=29
+					29:leaf=0.175189406
+					30:leaf=-0.102886975
+			12:[Level_of_Hemoglobin_2<161.417053] yes=19,no=20,missing=19
+				19:[Genetic_Pedigree_Coefficient_2<0.30825001] yes=31,no=32,missing=31
+					31:leaf=0.318345934
+					32:leaf=0.00565657252
+				20:[Level_of_Hemoglobin_2<164.994049] yes=33,no=34,missing=33
+					33:leaf=-0.170580626
+					34:leaf=0.0119894212
+booster[20]:
+0:[Genetic_Pedigree_Coefficient_2<0.600649953] yes=1,no=2,missing=1
+	1:[Genetic_Pedigree_Coefficient_2<0.390650004] yes=3,no=4,missing=3
+		3:[Genetic_Pedigree_Coefficient_2<0.319249988] yes=7,no=8,missing=7
+			7:[Genetic_Pedigree_Coefficient_2<0.172250003] yes=15,no=16,missing=15
+				15:[Level_of_Hemoglobin_2<187.279449] yes=29,no=30,missing=29
+					29:leaf=-0.0042500468
+					30:leaf=-0.100792289
+				16:[Level_of_Hemoglobin_2<78.5] yes=31,no=32,missing=31
+					31:leaf=-0.18902421
+					32:leaf=0.109516047
+			8:[Level_of_Hemoglobin_2<108.264648] yes=17,no=18,missing=17
+				17:[Level_of_Hemoglobin_2<84.0044556] yes=33,no=34,missing=33
+					33:leaf=0.0396707803
+					34:leaf=0.166534379
+				18:[Level_of_Hemoglobin_2<131.910858] yes=35,no=36,missing=35
+					35:leaf=-0.497493565
+					36:leaf=-0.0258622412
+		4:[Level_of_Hemoglobin_2<85.7476959] yes=9,no=10,missing=9
+			9:[Genetic_Pedigree_Coefficient_2<0.422600001] yes=19,no=20,missing=19
+				19:leaf=0.0754386038
+				20:leaf=-0.244819969
+			10:[Level_of_Hemoglobin_2<108.680847] yes=21,no=22,missing=21
+				21:[Genetic_Pedigree_Coefficient_2<0.58525002] yes=37,no=38,missing=37
+					37:leaf=0.290888786
+					38:leaf=-0.0273062792
+				22:[Level_of_Hemoglobin_2<113.529251] yes=39,no=40,missing=39
+					39:leaf=-0.351577699
+					40:leaf=0.0973946229
+	2:[Level_of_Hemoglobin_2<195.300842] yes=5,no=6,missing=5
+		5:[Level_of_Hemoglobin_2<173.317245] yes=11,no=12,missing=11
+			11:[Genetic_Pedigree_Coefficient_2<0.616250038] yes=23,no=24,missing=23
+				23:leaf=-0.236537755
+				24:[Level_of_Hemoglobin_2<127.464203] yes=41,no=42,missing=41
+					41:leaf=-0.0415049195
+					42:leaf=0.0404149145
+			12:leaf=-0.2657848
+		6:[Level_of_Hemoglobin_2<216.825836] yes=13,no=14,missing=13
+			13:[Genetic_Pedigree_Coefficient_2<0.931249976] yes=25,no=26,missing=25
+				25:[Genetic_Pedigree_Coefficient_2<0.810400009] yes=43,no=44,missing=43
+					43:leaf=0.070091784
+					44:leaf=0.41005072
+				26:leaf=-0.0103342934
+			14:[Genetic_Pedigree_Coefficient_2<0.940999985] yes=27,no=28,missing=27
+				27:leaf=-0.186216444
+				28:leaf=0.0620171614
+booster[21]:
+0:[Genetic_Pedigree_Coefficient_2<0.600649953] yes=1,no=2,missing=1
+	1:[Genetic_Pedigree_Coefficient_2<0.390650004] yes=3,no=4,missing=3
+		3:[Genetic_Pedigree_Coefficient_2<0.319249988] yes=7,no=8,missing=7
+			7:[Genetic_Pedigree_Coefficient_2<0.172250003] yes=15,no=16,missing=15
+				15:[Level_of_Hemoglobin_2<187.279449] yes=29,no=30,missing=29
+					29:leaf=0.00425007148
+					30:leaf=0.100792296
+				16:[Level_of_Hemoglobin_2<78.5] yes=31,no=32,missing=31
+					31:leaf=0.18902421
+					32:leaf=-0.109516084
+			8:[Level_of_Hemoglobin_2<108.264648] yes=17,no=18,missing=17
+				17:[Level_of_Hemoglobin_2<84.0044556] yes=33,no=34,missing=33
+					33:leaf=-0.0396707729
+					34:leaf=-0.166534349
+				18:[Level_of_Hemoglobin_2<131.910858] yes=35,no=36,missing=35
+					35:leaf=0.497493953
+					36:leaf=0.0258622076
+		4:[Level_of_Hemoglobin_2<85.7476959] yes=9,no=10,missing=9
+			9:[Genetic_Pedigree_Coefficient_2<0.422600001] yes=19,no=20,missing=19
+				19:leaf=-0.0754385665
+				20:leaf=0.244819969
+			10:[Level_of_Hemoglobin_2<108.680847] yes=21,no=22,missing=21
+				21:[Genetic_Pedigree_Coefficient_2<0.58525002] yes=37,no=38,missing=37
+					37:leaf=-0.290888757
+					38:leaf=0.0273062531
+				22:[Level_of_Hemoglobin_2<113.529251] yes=39,no=40,missing=39
+					39:leaf=0.35157764
+					40:leaf=-0.0973946452
+	2:[Level_of_Hemoglobin_2<195.300842] yes=5,no=6,missing=5
+		5:[Level_of_Hemoglobin_2<173.317245] yes=11,no=12,missing=11
+			11:[Genetic_Pedigree_Coefficient_2<0.616250038] yes=23,no=24,missing=23
+				23:leaf=0.236537725
+				24:[Level_of_Hemoglobin_2<127.464203] yes=41,no=42,missing=41
+					41:leaf=0.0415049195
+					42:leaf=-0.0404149219
+			12:leaf=0.2657848
+		6:[Level_of_Hemoglobin_2<216.825836] yes=13,no=14,missing=13
+			13:[Genetic_Pedigree_Coefficient_2<0.931249976] yes=25,no=26,missing=25
+				25:[Genetic_Pedigree_Coefficient_2<0.810400009] yes=43,no=44,missing=43
+					43:leaf=-0.0700917915
+					44:leaf=-0.41005072
+				26:leaf=0.0103342999
+			14:[Genetic_Pedigree_Coefficient_2<0.940999985] yes=27,no=28,missing=27
+				27:leaf=0.186216414
+				28:leaf=-0.0620171539
+booster[22]:
+0:[Level_of_Hemoglobin_2<250.905701] yes=1,no=2,missing=1
+	1:[Level_of_Hemoglobin_2<109.725647] yes=3,no=4,missing=3
+		3:[Level_of_Hemoglobin_2<108.472252] yes=7,no=8,missing=7
+			7:[Level_of_Hemoglobin_2<105.987045] yes=11,no=12,missing=11
+				11:[Genetic_Pedigree_Coefficient_2<0.0506500006] yes=17,no=18,missing=17
+					17:leaf=-0.135366023
+					18:leaf=0.0238134731
+				12:[Level_of_Hemoglobin_2<106.812256] yes=19,no=20,missing=19
+					19:leaf=0.427132696
+					20:leaf=0.0616188459
+			8:[Genetic_Pedigree_Coefficient_2<0.138500005] yes=13,no=14,missing=13
+				13:leaf=-0.237724498
+				14:leaf=-0.734019399
+		4:[Level_of_Hemoglobin_2<110.77565] yes=9,no=10,missing=9
+			9:leaf=0.286279917
+			10:[Genetic_Pedigree_Coefficient_2<0.783249974] yes=15,no=16,missing=15
+				15:[Genetic_Pedigree_Coefficient_2<0.0156500004] yes=21,no=22,missing=21
+					21:leaf=-0.0588217564
+					22:leaf=0.0353536308
+				16:[Level_of_Hemoglobin_2<194.743256] yes=23,no=24,missing=23
+					23:leaf=-0.179499865
+					24:leaf=0.131012619
+	2:[Genetic_Pedigree_Coefficient_2<0.903400004] yes=5,no=6,missing=5
+		5:leaf=-0.176733345
+		6:leaf=0.00904267281
+booster[23]:
+0:[Level_of_Hemoglobin_2<250.905701] yes=1,no=2,missing=1
+	1:[Level_of_Hemoglobin_2<109.725647] yes=3,no=4,missing=3
+		3:[Level_of_Hemoglobin_2<108.472252] yes=7,no=8,missing=7
+			7:[Level_of_Hemoglobin_2<105.987045] yes=11,no=12,missing=11
+				11:[Genetic_Pedigree_Coefficient_2<0.0506500006] yes=17,no=18,missing=17
+					17:leaf=0.135366037
+					18:leaf=-0.0238134712
+				12:[Level_of_Hemoglobin_2<106.812256] yes=19,no=20,missing=19
+					19:leaf=-0.427132726
+					20:leaf=-0.0616187975
+			8:[Genetic_Pedigree_Coefficient_2<0.138500005] yes=13,no=14,missing=13
+				13:leaf=0.237724558
+				14:leaf=0.734019458
+		4:[Level_of_Hemoglobin_2<110.77565] yes=9,no=10,missing=9
+			9:leaf=-0.286279887
+			10:[Genetic_Pedigree_Coefficient_2<0.783249974] yes=15,no=16,missing=15
+				15:[Genetic_Pedigree_Coefficient_2<0.0156500004] yes=21,no=22,missing=21
+					21:leaf=0.0588217303
+					22:leaf=-0.0353536345
+				16:[Level_of_Hemoglobin_2<194.743256] yes=23,no=24,missing=23
+					23:leaf=0.17949985
+					24:leaf=-0.131012589
+	2:[Genetic_Pedigree_Coefficient_2<0.903400004] yes=5,no=6,missing=5
+		5:leaf=0.17673336
+		6:leaf=-0.00904267654
+booster[24]:
+0:[Level_of_Hemoglobin_2<174.240112] yes=1,no=2,missing=1
+	1:[Level_of_Hemoglobin_2<169.130051] yes=3,no=4,missing=3
+		3:[Level_of_Hemoglobin_2<164.994049] yes=7,no=8,missing=7
+			7:[Level_of_Hemoglobin_2<162.180252] yes=11,no=12,missing=11
+				11:[Level_of_Hemoglobin_2<156.375061] yes=17,no=18,missing=17
+					17:leaf=0.00785482209
+					18:leaf=-0.120090716
+				12:leaf=0.140001521
+			8:[Level_of_Hemoglobin_2<165.765656] yes=13,no=14,missing=13
+				13:leaf=-0.310313165
+				14:[Genetic_Pedigree_Coefficient_2<0.409700006] yes=19,no=20,missing=19
+					19:leaf=0.0801857561
+					20:leaf=-0.0281472038
+		4:leaf=0.142447025
+	2:[Level_of_Hemoglobin_2<175.430054] yes=5,no=6,missing=5
+		5:leaf=-0.266109288
+		6:[Genetic_Pedigree_Coefficient_2<0.990049958] yes=9,no=10,missing=9
+			9:[Genetic_Pedigree_Coefficient_2<0.950649977] yes=15,no=16,missing=15
+				15:[Genetic_Pedigree_Coefficient_2<0.837249994] yes=21,no=22,missing=21
+					21:leaf=-0.0318739675
+					22:leaf=0.125176936
+				16:leaf=-0.242540821
+			10:leaf=0.159727931
+booster[25]:
+0:[Level_of_Hemoglobin_2<174.240112] yes=1,no=2,missing=1
+	1:[Level_of_Hemoglobin_2<169.130051] yes=3,no=4,missing=3
+		3:[Level_of_Hemoglobin_2<164.994049] yes=7,no=8,missing=7
+			7:[Level_of_Hemoglobin_2<162.180252] yes=11,no=12,missing=11
+				11:[Level_of_Hemoglobin_2<156.375061] yes=17,no=18,missing=17
+					17:leaf=-0.00785483886
+					18:leaf=0.120090671
+				12:leaf=-0.14000158
+			8:[Level_of_Hemoglobin_2<165.765656] yes=13,no=14,missing=13
+				13:leaf=0.310313195
+				14:[Genetic_Pedigree_Coefficient_2<0.409700006] yes=19,no=20,missing=19
+					19:leaf=-0.080185689
+					20:leaf=0.0281472057
+		4:leaf=-0.142447039
+	2:[Level_of_Hemoglobin_2<175.430054] yes=5,no=6,missing=5
+		5:leaf=0.266109318
+		6:[Genetic_Pedigree_Coefficient_2<0.990049958] yes=9,no=10,missing=9
+			9:[Genetic_Pedigree_Coefficient_2<0.950649977] yes=15,no=16,missing=15
+				15:[Genetic_Pedigree_Coefficient_2<0.837249994] yes=21,no=22,missing=21
+					21:leaf=0.0318739675
+					22:leaf=-0.125177026
+				16:leaf=0.242540821
+			10:leaf=-0.159727946
+booster[26]:
+0:[Level_of_Hemoglobin_2<88.6422501] yes=1,no=2,missing=1
+	1:[Level_of_Hemoglobin_2<87.1422501] yes=3,no=4,missing=3
+		3:[Genetic_Pedigree_Coefficient_2<0.855650008] yes=7,no=8,missing=7
+			7:[Genetic_Pedigree_Coefficient_2<0.792199969] yes=15,no=16,missing=15
+				15:[Level_of_Hemoglobin_2<83.2656555] yes=23,no=24,missing=23
+					23:leaf=-0.0666498765
+					24:leaf=0.0576556362
+				16:[Genetic_Pedigree_Coefficient_2<0.837249994] yes=25,no=26,missing=25
+					25:leaf=0.393474519
+					26:leaf=0.0225813314
+			8:leaf=-0.191615537
+		4:[Genetic_Pedigree_Coefficient_2<0.374599993] yes=9,no=10,missing=9
+			9:leaf=-0.378756821
+			10:leaf=-0.00997599214
+	2:[Level_of_Hemoglobin_2<93.2190475] yes=5,no=6,missing=5
+		5:[Genetic_Pedigree_Coefficient_2<0.0229000002] yes=11,no=12,missing=11
+			11:leaf=0.3296839
+			12:[Genetic_Pedigree_Coefficient_2<0.0650499985] yes=17,no=18,missing=17
+				17:leaf=-0.208191678
+				18:[Level_of_Hemoglobin_2<92.2560501] yes=27,no=28,missing=27
+					27:leaf=0.253991306
+					28:leaf=0.0511351004
+		6:[Level_of_Hemoglobin_2<95.7462463] yes=13,no=14,missing=13
+			13:[Genetic_Pedigree_Coefficient_2<0.577700019] yes=19,no=20,missing=19
+				19:[Genetic_Pedigree_Coefficient_2<0.0468499996] yes=29,no=30,missing=29
+					29:leaf=-0.207731113
+					30:leaf=0.125540659
+				20:leaf=-0.273691326
+			14:[Level_of_Hemoglobin_2<96.3342514] yes=21,no=22,missing=21
+				21:leaf=0.227837369
+				22:[Level_of_Hemoglobin_2<97.5156555] yes=31,no=32,missing=31
+					31:leaf=-0.18591024
+					32:leaf=0.00190016662
+booster[27]:
+0:[Level_of_Hemoglobin_2<88.6422501] yes=1,no=2,missing=1
+	1:[Level_of_Hemoglobin_2<87.1422501] yes=3,no=4,missing=3
+		3:[Genetic_Pedigree_Coefficient_2<0.855650008] yes=7,no=8,missing=7
+			7:[Genetic_Pedigree_Coefficient_2<0.792199969] yes=15,no=16,missing=15
+				15:[Level_of_Hemoglobin_2<83.2656555] yes=23,no=24,missing=23
+					23:leaf=0.0666498393
+					24:leaf=-0.0576556325
+				16:[Genetic_Pedigree_Coefficient_2<0.837249994] yes=25,no=26,missing=25
+					25:leaf=-0.393474549
+					26:leaf=-0.0225813426
+			8:leaf=0.191615567
+		4:[Genetic_Pedigree_Coefficient_2<0.374599993] yes=9,no=10,missing=9
+			9:leaf=0.378756791
+			10:leaf=0.00997598656
+	2:[Level_of_Hemoglobin_2<93.2190475] yes=5,no=6,missing=5
+		5:[Genetic_Pedigree_Coefficient_2<0.0229000002] yes=11,no=12,missing=11
+			11:leaf=-0.32968393
+			12:[Genetic_Pedigree_Coefficient_2<0.0650499985] yes=17,no=18,missing=17
+				17:leaf=0.208191678
+				18:[Level_of_Hemoglobin_2<92.2560501] yes=27,no=28,missing=27
+					27:leaf=-0.253991306
+					28:leaf=-0.051135093
+		6:[Level_of_Hemoglobin_2<95.7462463] yes=13,no=14,missing=13
+			13:[Genetic_Pedigree_Coefficient_2<0.577700019] yes=19,no=20,missing=19
+				19:[Genetic_Pedigree_Coefficient_2<0.0468499996] yes=29,no=30,missing=29
+					29:leaf=0.207731113
+					30:leaf=-0.125540659
+				20:leaf=0.273691356
+			14:[Level_of_Hemoglobin_2<96.3342514] yes=21,no=22,missing=21
+				21:leaf=-0.227837354
+				22:[Level_of_Hemoglobin_2<97.5156555] yes=31,no=32,missing=31
+					31:leaf=0.18591021
+					32:leaf=-0.00190015323
+booster[28]:
+0:[Level_of_Hemoglobin_2<70.6440506] yes=1,no=2,missing=1
+	1:[Level_of_Hemoglobin_2<70.1406555] yes=3,no=4,missing=3
+		3:[Genetic_Pedigree_Coefficient_2<0.68900001] yes=7,no=8,missing=7
+			7:leaf=-0.173532084
+			8:[Level_of_Hemoglobin_2<68.9732513] yes=11,no=12,missing=11
+				11:leaf=0.0677860901
+				12:leaf=0.0143569428
+		4:leaf=0.29639256
+	2:[Level_of_Hemoglobin_2<74.9092484] yes=5,no=6,missing=5
+		5:leaf=-0.195318207
+		6:[Level_of_Hemoglobin_2<79.032196] yes=9,no=10,missing=9
+			9:[Genetic_Pedigree_Coefficient_2<0.588250041] yes=13,no=14,missing=13
+				13:[Level_of_Hemoglobin_2<78.057251] yes=17,no=18,missing=17
+					17:leaf=-0.15209347
+					18:leaf=0.113274626
+				14:leaf=0.219394013
+			10:[Genetic_Pedigree_Coefficient_2<0.600649953] yes=15,no=16,missing=15
+				15:[Genetic_Pedigree_Coefficient_2<0.172250003] yes=19,no=20,missing=19
+					19:leaf=-0.0146151921
+					20:leaf=0.0365095362
+				16:[Genetic_Pedigree_Coefficient_2<0.697250009] yes=21,no=22,missing=21
+					21:leaf=-0.103967629
+					22:leaf=-0.00734460074
+booster[29]:
+0:[Level_of_Hemoglobin_2<70.6440506] yes=1,no=2,missing=1
+	1:[Level_of_Hemoglobin_2<70.1406555] yes=3,no=4,missing=3
+		3:[Genetic_Pedigree_Coefficient_2<0.68900001] yes=7,no=8,missing=7
+			7:leaf=0.173532084
+			8:[Level_of_Hemoglobin_2<68.9732513] yes=11,no=12,missing=11
+				11:leaf=-0.0677860901
+				12:leaf=-0.0143569512
+		4:leaf=-0.29639256
+	2:[Level_of_Hemoglobin_2<74.9092484] yes=5,no=6,missing=5
+		5:leaf=0.195318177
+		6:[Level_of_Hemoglobin_2<79.032196] yes=9,no=10,missing=9
+			9:[Genetic_Pedigree_Coefficient_2<0.588250041] yes=13,no=14,missing=13
+				13:[Level_of_Hemoglobin_2<78.057251] yes=17,no=18,missing=17
+					17:leaf=0.15209347
+					18:leaf=-0.113274649
+				14:leaf=-0.219394013
+			10:[Genetic_Pedigree_Coefficient_2<0.600649953] yes=15,no=16,missing=15
+				15:[Genetic_Pedigree_Coefficient_2<0.172250003] yes=19,no=20,missing=19
+					19:leaf=0.0146151902
+					20:leaf=-0.0365095772
+				16:[Genetic_Pedigree_Coefficient_2<0.697250009] yes=21,no=22,missing=21
+					21:leaf=0.103967637
+					22:leaf=0.00734459283
+booster[30]:
+0:[Genetic_Pedigree_Coefficient_2<0.0600499995] yes=1,no=2,missing=1
+	1:[Genetic_Pedigree_Coefficient_2<0.0506500006] yes=3,no=4,missing=3
+		3:[Level_of_Hemoglobin_2<104.960052] yes=7,no=8,missing=7
+			7:[Genetic_Pedigree_Coefficient_2<0.0182499997] yes=13,no=14,missing=13
+				13:[Genetic_Pedigree_Coefficient_2<0.00564999972] yes=21,no=22,missing=21
+					21:leaf=-0.17579107
+					22:leaf=0.2280045
+				14:leaf=-0.261542618
+			8:[Level_of_Hemoglobin_2<107.019051] yes=15,no=16,missing=15
+				15:leaf=0.320546538
+				16:[Level_of_Hemoglobin_2<226.352051] yes=23,no=24,missing=23
+					23:leaf=-0.00261836709
+					24:leaf=0.25075528
+		4:leaf=0.258317769
+	2:[Genetic_Pedigree_Coefficient_2<0.0650499985] yes=5,no=6,missing=5
+		5:[Level_of_Hemoglobin_2<129.618454] yes=9,no=10,missing=9
+			9:leaf=-0.442081898
+			10:leaf=-0.121489994
+		6:[Level_of_Hemoglobin_2<216.825836] yes=11,no=12,missing=11
+			11:[Level_of_Hemoglobin_2<139.594254] yes=17,no=18,missing=17
+				17:[Level_of_Hemoglobin_2<128.029251] yes=25,no=26,missing=25
+					25:leaf=0.0053723217
+					26:leaf=-0.107402608
+				18:[Genetic_Pedigree_Coefficient_2<0.731050014] yes=27,no=28,missing=27
+					27:leaf=0.0843405798
+					28:leaf=-0.0600889772
+			12:[Level_of_Hemoglobin_2<237.006042] yes=19,no=20,missing=19
+				19:[Genetic_Pedigree_Coefficient_2<0.252816945] yes=29,no=30,missing=29
+					29:leaf=-0.0693967119
+					30:leaf=-0.200186938
+				20:[Level_of_Hemoglobin_2<238.702911] yes=31,no=32,missing=31
+					31:leaf=0.199172243
+					32:leaf=-0.0517448448
+booster[31]:
+0:[Genetic_Pedigree_Coefficient_2<0.0600499995] yes=1,no=2,missing=1
+	1:[Genetic_Pedigree_Coefficient_2<0.0506500006] yes=3,no=4,missing=3
+		3:[Level_of_Hemoglobin_2<104.960052] yes=7,no=8,missing=7
+			7:[Genetic_Pedigree_Coefficient_2<0.0182499997] yes=13,no=14,missing=13
+				13:[Genetic_Pedigree_Coefficient_2<0.00564999972] yes=21,no=22,missing=21
+					21:leaf=0.175791085
+					22:leaf=-0.22800456
+				14:leaf=0.261542618
+			8:[Level_of_Hemoglobin_2<107.019051] yes=15,no=16,missing=15
+				15:leaf=-0.320546508
+				16:[Level_of_Hemoglobin_2<226.352051] yes=23,no=24,missing=23
+					23:leaf=0.00261837384
+					24:leaf=-0.250755489
+		4:leaf=-0.258317769
+	2:[Genetic_Pedigree_Coefficient_2<0.0650499985] yes=5,no=6,missing=5
+		5:[Level_of_Hemoglobin_2<129.618454] yes=9,no=10,missing=9
+			9:leaf=0.442082018
+			10:leaf=0.121489994
+		6:[Level_of_Hemoglobin_2<216.825836] yes=11,no=12,missing=11
+			11:[Level_of_Hemoglobin_2<139.594254] yes=17,no=18,missing=17
+				17:[Level_of_Hemoglobin_2<128.029251] yes=25,no=26,missing=25
+					25:leaf=-0.00537235057
+					26:leaf=0.107402578
+				18:[Genetic_Pedigree_Coefficient_2<0.731050014] yes=27,no=28,missing=27
+					27:leaf=-0.0843405724
+					28:leaf=0.060089007
+			12:[Level_of_Hemoglobin_2<237.006042] yes=19,no=20,missing=19
+				19:[Genetic_Pedigree_Coefficient_2<0.252816945] yes=29,no=30,missing=29
+					29:leaf=0.0693967491
+					30:leaf=0.200186923
+				20:[Level_of_Hemoglobin_2<238.702911] yes=31,no=32,missing=31
+					31:leaf=-0.199172243
+					32:leaf=0.051744841
+booster[32]:
+0:[Level_of_Hemoglobin_2<156.375061] yes=1,no=2,missing=1
+	1:[Level_of_Hemoglobin_2<122.43425] yes=3,no=4,missing=3
+		3:[Level_of_Hemoglobin_2<119.574249] yes=7,no=8,missing=7
+			7:[Level_of_Hemoglobin_2<118.048248] yes=15,no=16,missing=15
+				15:[Genetic_Pedigree_Coefficient_2<0.483049989] yes=27,no=28,missing=27
+					27:leaf=0.0158607494
+					28:leaf=-0.052753564
+				16:[Genetic_Pedigree_Coefficient_2<0.108999997] yes=29,no=30,missing=29
+					29:leaf=0.067425862
+					30:leaf=0.311952353
+			8:[Level_of_Hemoglobin_2<120.67025] yes=17,no=18,missing=17
+				17:[Genetic_Pedigree_Coefficient_2<0.102799997] yes=31,no=32,missing=31
+					31:leaf=-0.119020067
+					32:leaf=-0.415372938
+				18:[Genetic_Pedigree_Coefficient_2<0.319450021] yes=33,no=34,missing=33
+					33:leaf=0.157544702
+					34:leaf=-0.142140627
+		4:[Level_of_Hemoglobin_2<126.675049] yes=9,no=10,missing=9
+			9:[Genetic_Pedigree_Coefficient_2<0.680850029] yes=19,no=20,missing=19
+				19:leaf=0.249902815
+				20:leaf=-0.0699039921
+			10:[Genetic_Pedigree_Coefficient_2<0.616250038] yes=21,no=22,missing=21
+				21:[Level_of_Hemoglobin_2<133.518051] yes=35,no=36,missing=35
+					35:leaf=-0.111087084
+					36:leaf=0.0512127168
+				22:[Genetic_Pedigree_Coefficient_2<0.765650034] yes=37,no=38,missing=37
+					37:leaf=0.290986389
+					38:leaf=-0.0376496017
+	2:[Genetic_Pedigree_Coefficient_2<0.030650001] yes=5,no=6,missing=5
+		5:[Level_of_Hemoglobin_2<226.352051] yes=11,no=12,missing=11
+			11:[Level_of_Hemoglobin_2<164.994247] yes=23,no=24,missing=23
+				23:[Level_of_Hemoglobin_2<161.926239] yes=39,no=40,missing=39
+					39:leaf=-0.210228458
+					40:leaf=0.0909818634
+				24:leaf=-0.223313183
+			12:leaf=0.0648143217
+		6:[Genetic_Pedigree_Coefficient_2<0.0420500003] yes=13,no=14,missing=13
+			13:leaf=0.184533373
+			14:[Level_of_Hemoglobin_2<158.886047] yes=25,no=26,missing=25
+				25:leaf=-0.185268134
+				26:[Level_of_Hemoglobin_2<161.798492] yes=41,no=42,missing=41
+					41:leaf=0.146219119
+					42:leaf=-0.0338182151
+booster[33]:
+0:[Level_of_Hemoglobin_2<156.375061] yes=1,no=2,missing=1
+	1:[Level_of_Hemoglobin_2<122.43425] yes=3,no=4,missing=3
+		3:[Level_of_Hemoglobin_2<119.574249] yes=7,no=8,missing=7
+			7:[Level_of_Hemoglobin_2<118.048248] yes=15,no=16,missing=15
+				15:[Genetic_Pedigree_Coefficient_2<0.483049989] yes=27,no=28,missing=27
+					27:leaf=-0.0158607736
+					28:leaf=0.0527535751
+				16:[Genetic_Pedigree_Coefficient_2<0.108999997] yes=29,no=30,missing=29
+					29:leaf=-0.067425862
+					30:leaf=-0.311952323
+			8:[Level_of_Hemoglobin_2<120.67025] yes=17,no=18,missing=17
+				17:[Genetic_Pedigree_Coefficient_2<0.102799997] yes=31,no=32,missing=31
+					31:leaf=0.119020037
+					32:leaf=0.415372878
+				18:[Genetic_Pedigree_Coefficient_2<0.319450021] yes=33,no=34,missing=33
+					33:leaf=-0.157544702
+					34:leaf=0.142140612
+		4:[Level_of_Hemoglobin_2<126.675049] yes=9,no=10,missing=9
+			9:[Genetic_Pedigree_Coefficient_2<0.680850029] yes=19,no=20,missing=19
+				19:leaf=-0.24990283
+				20:leaf=0.0699040145
+			10:[Genetic_Pedigree_Coefficient_2<0.616250038] yes=21,no=22,missing=21
+				21:[Level_of_Hemoglobin_2<133.518051] yes=35,no=36,missing=35
+					35:leaf=0.111087039
+					36:leaf=-0.0512127392
+				22:[Genetic_Pedigree_Coefficient_2<0.765650034] yes=37,no=38,missing=37
+					37:leaf=-0.290986359
+					38:leaf=0.0376495458
+	2:[Genetic_Pedigree_Coefficient_2<0.030650001] yes=5,no=6,missing=5
+		5:[Level_of_Hemoglobin_2<226.352051] yes=11,no=12,missing=11
+			11:[Level_of_Hemoglobin_2<164.994247] yes=23,no=24,missing=23
+				23:[Level_of_Hemoglobin_2<161.926239] yes=39,no=40,missing=39
+					39:leaf=0.210228443
+					40:leaf=-0.0909818858
+				24:leaf=0.223313183
+			12:leaf=-0.0648142248
+		6:[Genetic_Pedigree_Coefficient_2<0.0420500003] yes=13,no=14,missing=13
+			13:leaf=-0.184533387
+			14:[Level_of_Hemoglobin_2<158.886047] yes=25,no=26,missing=25
+				25:leaf=0.185268193
+				26:[Level_of_Hemoglobin_2<161.798492] yes=41,no=42,missing=41
+					41:leaf=-0.146219119
+					42:leaf=0.033818204
+booster[34]:
+0:[Genetic_Pedigree_Coefficient_2<0.000249999983] yes=1,no=2,missing=1
+	1:[Level_of_Hemoglobin_2<131.572998] yes=3,no=4,missing=3
+		3:leaf=-0.171016157
+		4:leaf=0.0471223593
+	2:[Genetic_Pedigree_Coefficient_2<0.00205000001] yes=5,no=6,missing=5
+		5:[Level_of_Hemoglobin_2<149.21524] yes=7,no=8,missing=7
+			7:[Level_of_Hemoglobin_2<129.053192] yes=11,no=12,missing=11
+				11:leaf=0.146522
+				12:leaf=-0.173499078
+			8:leaf=0.214030653
+		6:[Genetic_Pedigree_Coefficient_2<0.0110499999] yes=9,no=10,missing=9
+			9:[Level_of_Hemoglobin_2<106.916504] yes=13,no=14,missing=13
+				13:leaf=0.0970074162
+				14:[Level_of_Hemoglobin_2<176.6362] yes=17,no=18,missing=17
+					17:leaf=-0.229762688
+					18:leaf=0.109691814
+			10:[Level_of_Hemoglobin_2<174.90065] yes=15,no=16,missing=15
+				15:[Level_of_Hemoglobin_2<122.43425] yes=19,no=20,missing=19
+					19:leaf=-0.00741730304
+					20:leaf=0.0457196608
+				16:[Genetic_Pedigree_Coefficient_2<0.540249944] yes=21,no=22,missing=21
+					21:leaf=-0.0641414747
+					22:leaf=0.0369443595
+booster[35]:
+0:[Genetic_Pedigree_Coefficient_2<0.000249999983] yes=1,no=2,missing=1
+	1:[Level_of_Hemoglobin_2<131.572998] yes=3,no=4,missing=3
+		3:leaf=0.171016142
+		4:leaf=-0.0471222885
+	2:[Genetic_Pedigree_Coefficient_2<0.00205000001] yes=5,no=6,missing=5
+		5:[Level_of_Hemoglobin_2<149.21524] yes=7,no=8,missing=7
+			7:[Level_of_Hemoglobin_2<129.053192] yes=11,no=12,missing=11
+				11:leaf=-0.146521926
+				12:leaf=0.173499078
+			8:leaf=-0.214030802
+		6:[Genetic_Pedigree_Coefficient_2<0.0110499999] yes=9,no=10,missing=9
+			9:[Level_of_Hemoglobin_2<106.916504] yes=13,no=14,missing=13
+				13:leaf=-0.0970073938
+				14:[Level_of_Hemoglobin_2<176.6362] yes=17,no=18,missing=17
+					17:leaf=0.229762688
+					18:leaf=-0.109691843
+			10:[Level_of_Hemoglobin_2<174.90065] yes=15,no=16,missing=15
+				15:[Level_of_Hemoglobin_2<122.43425] yes=19,no=20,missing=19
+					19:leaf=0.00741731282
+					20:leaf=-0.0457196683
+				16:[Genetic_Pedigree_Coefficient_2<0.540249944] yes=21,no=22,missing=21
+					21:leaf=0.0641414821
+					22:leaf=-0.0369443856
+booster[36]:
+0:[Level_of_Hemoglobin_2<250.905701] yes=1,no=2,missing=1
+	1:[Level_of_Hemoglobin_2<226.352051] yes=3,no=4,missing=3
+		3:[Level_of_Hemoglobin_2<216.825836] yes=7,no=8,missing=7
+			7:[Level_of_Hemoglobin_2<212.139252] yes=11,no=12,missing=11
+				11:[Genetic_Pedigree_Coefficient_2<0.912050009] yes=17,no=18,missing=17
+					17:leaf=0.00250864751
+					18:leaf=-0.0916156694
+				12:[Genetic_Pedigree_Coefficient_2<0.801650047] yes=19,no=20,missing=19
+					19:leaf=-0.0399050675
+					20:leaf=0.226615787
+			8:leaf=-0.164449409
+		4:[Level_of_Hemoglobin_2<230.128998] yes=9,no=10,missing=9
+			9:[Genetic_Pedigree_Coefficient_2<0.055399999] yes=13,no=14,missing=13
+				13:leaf=0.190068558
+				14:leaf=0.0476063006
+			10:[Genetic_Pedigree_Coefficient_2<0.525849998] yes=15,no=16,missing=15
+				15:[Level_of_Hemoglobin_2<238.702911] yes=21,no=22,missing=21
+					21:leaf=-0.0198506918
+					22:leaf=-0.140445709
+				16:leaf=0.140624523
+	2:[Level_of_Hemoglobin_2<282.241608] yes=5,no=6,missing=5
+		5:leaf=-0.149093911
+		6:leaf=0.024180131
+booster[37]:
+0:[Level_of_Hemoglobin_2<250.905701] yes=1,no=2,missing=1
+	1:[Level_of_Hemoglobin_2<226.352051] yes=3,no=4,missing=3
+		3:[Level_of_Hemoglobin_2<216.825836] yes=7,no=8,missing=7
+			7:[Level_of_Hemoglobin_2<212.139252] yes=11,no=12,missing=11
+				11:[Genetic_Pedigree_Coefficient_2<0.912050009] yes=17,no=18,missing=17
+					17:leaf=-0.00250865938
+					18:leaf=0.0916156694
+				12:[Genetic_Pedigree_Coefficient_2<0.801650047] yes=19,no=20,missing=19
+					19:leaf=0.0399050601
+					20:leaf=-0.226615787
+			8:leaf=0.164449409
+		4:[Level_of_Hemoglobin_2<230.128998] yes=9,no=10,missing=9
+			9:[Genetic_Pedigree_Coefficient_2<0.055399999] yes=13,no=14,missing=13
+				13:leaf=-0.190068558
+				14:leaf=-0.0476062894
+			10:[Genetic_Pedigree_Coefficient_2<0.525849998] yes=15,no=16,missing=15
+				15:[Level_of_Hemoglobin_2<238.702911] yes=21,no=22,missing=21
+					21:leaf=0.0198505726
+					22:leaf=0.140445679
+				16:leaf=-0.140624493
+	2:[Level_of_Hemoglobin_2<282.241608] yes=5,no=6,missing=5
+		5:leaf=0.149093926
+		6:leaf=-0.024180172
+booster[38]:
+0:[Genetic_Pedigree_Coefficient_2<0.0930500031] yes=1,no=2,missing=1
+	1:[Genetic_Pedigree_Coefficient_2<0.0600499995] yes=3,no=4,missing=3
+		3:[Genetic_Pedigree_Coefficient_2<0.0506500006] yes=7,no=8,missing=7
+			7:[Level_of_Hemoglobin_2<104.960052] yes=15,no=16,missing=15
+				15:[Genetic_Pedigree_Coefficient_2<0.0182499997] yes=29,no=30,missing=29
+					29:leaf=0.00892623328
+					30:leaf=-0.228091434
+				16:[Level_of_Hemoglobin_2<134.21225] yes=31,no=32,missing=31
+					31:leaf=0.0771265328
+					32:leaf=-0.0410408229
+			8:leaf=0.205261067
+		4:[Level_of_Hemoglobin_2<96.3342514] yes=9,no=10,missing=9
+			9:[Level_of_Hemoglobin_2<89.9654541] yes=17,no=18,missing=17
+				17:leaf=-0.186470538
+				18:leaf=0.22112374
+			10:[Level_of_Hemoglobin_2<117.305801] yes=19,no=20,missing=19
+				19:leaf=-0.385005057
+				20:[Level_of_Hemoglobin_2<127.690399] yes=33,no=34,missing=33
+					33:leaf=0.140042782
+					34:leaf=-0.0768860877
+	2:[Level_of_Hemoglobin_2<105.165054] yes=5,no=6,missing=5
+		5:[Level_of_Hemoglobin_2<95.7462463] yes=11,no=12,missing=11
+			11:[Genetic_Pedigree_Coefficient_2<0.148249999] yes=21,no=22,missing=21
+				21:leaf=0.197013274
+				22:[Genetic_Pedigree_Coefficient_2<0.255050004] yes=35,no=36,missing=35
+					35:leaf=-0.171358779
+					36:leaf=0.00298368162
+			12:[Genetic_Pedigree_Coefficient_2<0.656199992] yes=23,no=24,missing=23
+				23:leaf=0.239327371
+				24:[Genetic_Pedigree_Coefficient_2<0.893049955] yes=37,no=38,missing=37
+					37:leaf=-0.0953490436
+					38:leaf=0.30456391
+		6:[Level_of_Hemoglobin_2<109.725647] yes=13,no=14,missing=13
+			13:[Genetic_Pedigree_Coefficient_2<0.497050017] yes=25,no=26,missing=25
+				25:leaf=-0.292996585
+				26:[Genetic_Pedigree_Coefficient_2<0.697250009] yes=39,no=40,missing=39
+					39:leaf=0.0494338274
+					40:leaf=-0.228054658
+			14:[Level_of_Hemoglobin_2<111.408051] yes=27,no=28,missing=27
+				27:[Level_of_Hemoglobin_2<110.77565] yes=41,no=42,missing=41
+					41:leaf=0.274242789
+					42:leaf=0.0638453737
+				28:[Level_of_Hemoglobin_2<112.466049] yes=43,no=44,missing=43
+					43:leaf=-0.350912452
+					44:leaf=0.00856918003
+booster[39]:
+0:[Genetic_Pedigree_Coefficient_2<0.0930500031] yes=1,no=2,missing=1
+	1:[Genetic_Pedigree_Coefficient_2<0.0600499995] yes=3,no=4,missing=3
+		3:[Genetic_Pedigree_Coefficient_2<0.0506500006] yes=7,no=8,missing=7
+			7:[Level_of_Hemoglobin_2<104.960052] yes=15,no=16,missing=15
+				15:[Genetic_Pedigree_Coefficient_2<0.0182499997] yes=29,no=30,missing=29
+					29:leaf=-0.00892621931
+					30:leaf=0.228091434
+				16:[Level_of_Hemoglobin_2<134.21225] yes=31,no=32,missing=31
+					31:leaf=-0.0771265253
+					32:leaf=0.0410408042
+			8:leaf=-0.205261081
+		4:[Level_of_Hemoglobin_2<96.3342514] yes=9,no=10,missing=9
+			9:[Level_of_Hemoglobin_2<89.9654541] yes=17,no=18,missing=17
+				17:leaf=0.186470538
+				18:leaf=-0.221123755
+			10:[Level_of_Hemoglobin_2<117.305801] yes=19,no=20,missing=19
+				19:leaf=0.385005116
+				20:[Level_of_Hemoglobin_2<127.690399] yes=33,no=34,missing=33
+					33:leaf=-0.140042752
+					34:leaf=0.0768861175
+	2:[Level_of_Hemoglobin_2<105.165054] yes=5,no=6,missing=5
+		5:[Level_of_Hemoglobin_2<95.7462463] yes=11,no=12,missing=11
+			11:[Genetic_Pedigree_Coefficient_2<0.148249999] yes=21,no=22,missing=21
+				21:leaf=-0.197013259
+				22:[Genetic_Pedigree_Coefficient_2<0.255050004] yes=35,no=36,missing=35
+					35:leaf=0.171358719
+					36:leaf=-0.00298365392
+			12:[Genetic_Pedigree_Coefficient_2<0.656199992] yes=23,no=24,missing=23
+				23:leaf=-0.239327371
+				24:[Genetic_Pedigree_Coefficient_2<0.893049955] yes=37,no=38,missing=37
+					37:leaf=0.0953490362
+					38:leaf=-0.30456394
+		6:[Level_of_Hemoglobin_2<109.725647] yes=13,no=14,missing=13
+			13:[Genetic_Pedigree_Coefficient_2<0.497050017] yes=25,no=26,missing=25
+				25:leaf=0.292996526
+				26:[Genetic_Pedigree_Coefficient_2<0.697250009] yes=39,no=40,missing=39
+					39:leaf=-0.0494338572
+					40:leaf=0.228054658
+			14:[Level_of_Hemoglobin_2<111.408051] yes=27,no=28,missing=27
+				27:[Level_of_Hemoglobin_2<110.77565] yes=41,no=42,missing=41
+					41:leaf=-0.274242789
+					42:leaf=-0.063845329
+				28:[Level_of_Hemoglobin_2<112.466049] yes=43,no=44,missing=43
+					43:leaf=0.350912511
+					44:leaf=-0.00856917724
